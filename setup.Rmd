@@ -1,0 +1,40 @@
+---
+title: "Further Topics in Statistics and Bioinformatics"
+author: "Dr Christopher Yau"
+date: "19 February 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This course will begin with a two day session on Statistics and Data Mining techniques which will involve practical exercises.
+
+It is recommended that you bring your own laptop with the following working software installed:
+
+1. [R](https://www.r-project.org/).
+
+2. [Rstudio](https://www.rstudio.com/)
+
+Attendees are assumed to be familiar with the basic use and functionality of R.
+
+**THIS IS NOT AN INTRODUCTION TO R COURSE**
+
+It is recommended that you install the following packages in advance of the course using the following commands in R:
+```
+  install.packages("devtools")
+  devtools::install_github("kieranrcampbell/modelselectionworkshop")
+  install.packages("mclust")
+  install.packages("mcclust")
+  install.packages("gplots")
+  install.packages("Rtsne")
+```
+
+The course will be held in the [Wellcome Trust Centre for Human Genetics](http://www.well.ox.ac.uk) where wireless internet access will be available to University members with eduroam access on their laptops. 
+
+If you wish to use the wireless internet, please ensure your computers are configured to use eduroam in advance of the course.
+
+Instructions for this can be found from [Oxford University Computing Services](http://help.it.ox.ac.uk/network/wireless/services/eduroam/index). 
+
+
