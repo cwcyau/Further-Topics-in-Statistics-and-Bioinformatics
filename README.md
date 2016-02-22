@@ -20,4 +20,7 @@
 <p>The course will be held in the <a href="http://www.well.ox.ac.uk">Wellcome Trust Centre for Human Genetics</a> where wireless internet access will be available to University members with eduroam access on their laptops.</p>
 <p>If you wish to use the wireless internet, please ensure your computers are configured to use eduroam in advance of the course.</p>
 <p>Instructions for this can be found from <a href="http://help.it.ox.ac.uk/network/wireless/services/eduroam/index">Oxford University Computing Services</a>.</p>
+<p><strong>TIMETABLE</strong></p>
+<p>Monday, 29 February, 2016. Start: 09:30, End: 16:30</p>
+<p>Tuesday, 1 March, 2016. Start: 09:30, End: 13:00 </p>
 
